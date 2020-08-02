@@ -2,5 +2,7 @@ beautifulsoup4==4.7.1
 boto3==1.14.33
 flake8==3.8.3
 google-api-python-client==1.10.0
+google-auth-httplib2==0.0.4
+google-auth-oauthlib==0.4.1
 lxml==4.3.2
 spotipy==2.13.0
